@@ -1,4 +1,12 @@
+@font-face {
+    font-family: myfont;
+    src: url(../Font/GoogleSans-Italic-v1.27.ttf);
+}
 
+@font-face {
+    font-family: tit;
+    src: url(../Font/GoogleSansDisplay-Bold-v1.27.ttf);
+}
 
 .navbar{
     background-image:url(../img/hinh-anh-canh-may-bay_111631657.jpg);
@@ -13,8 +21,9 @@
 }
 
 .content-title{
-    font-family: 'Source Serif Pro', serif;
+    font-family: tit;
     font-weight: bold;
+    font-size: larger;
 }
 
 .card{
@@ -27,7 +36,6 @@
 .content{
     margin: 0 auto;
     max-width: 900px;
-    font-family: 'Open Sans', bold;
-    font-style: italic;
     
+    font-family: myfont;
 }
