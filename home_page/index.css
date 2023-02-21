@@ -1,0 +1,33 @@
+
+
+.navbar{
+    background-image:url(../img/hinh-anh-canh-may-bay_111631657.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.logo{
+    width: 50px;
+}
+
+.content-title{
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bold;
+}
+
+.card{
+    background-image:url(../img/White.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content{
+    margin: 0 auto;
+    max-width: 900px;
+    font-family: 'Open Sans', bold;
+    font-style: italic;
+    
+}
