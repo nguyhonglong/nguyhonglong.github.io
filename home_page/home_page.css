@@ -1,4 +1,6 @@
-
+*{
+    color: white;
+}
 
 .navbar{
     background-image:url(../img/hinh-anh-canh-may-bay_111631657.jpg);
@@ -35,7 +37,7 @@
 .container{
     width: 100% ;
     margin-top: 20px;
-    border: 1px solid black;
+    
 }
 
 .container > .spiderman{
@@ -57,3 +59,23 @@
     font-size: larger;
     margin-top: 20px;
 }
+
+.cer-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cer{
+    width: 90%;
+    border: 1px solid #c7c7c7;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+  }
