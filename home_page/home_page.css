@@ -1,13 +1,15 @@
 *{
     color: white;
+    font-family: google sans bold;
 }
 
 .navbar{
-    background-image:url(../img/hinh-anh-canh-may-bay_111631657.jpg);
-    background-position: center;
+    background-image:url(../img/spider-man.jpg);
+    background-position:top;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 
 
 .logo{
@@ -37,11 +39,14 @@
 .container{
     width: 100% ;
     margin-top: 20px;
+    background-color: black;
     
 }
 
 .container > .spiderman{
     width: 100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
     
 }
 
@@ -78,4 +83,4 @@
     min-width: 100%;
     min-height: 100%;
     z-index: -1;
-  }
+}
