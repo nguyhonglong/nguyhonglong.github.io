@@ -1,10 +1,16 @@
 
 
 .navbar{
-    background-image:url(../img/hinh-anh-canh-may-bay_111631657.jpg);
-    background-position: center;
+    background-image:url(../img/spider-man.jpg);
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: google sans bold;
+}
+
+@font-face {
+    font-family: google sans bold;
+    src: url(../font/GoogleSans-Bold-v1.27.ttf);
 }
 
 
