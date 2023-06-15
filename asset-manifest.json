@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd883354.css",
+    "main.js": "/static/js/main.c124c327.js",
+    "static/js/787.8d2a3247.chunk.js": "/static/js/787.8d2a3247.chunk.js",
+    "static/media/background-video.mp4": "/static/media/background-video.8ffd6811083e7b7cfdd0.mp4",
+    "static/media/GoogleSans-Regular-v1.27.ttf": "/static/media/GoogleSans-Regular-v1.27.19c78e33fc3a7243f219.ttf",
+    "static/media/GoogleSans-Bold-v1.27.ttf": "/static/media/GoogleSans-Bold-v1.27.18cab8ca4b802f600b69.ttf",
+    "static/media/Hanoi-University-of-Mining-and-Geology-1.png": "/static/media/Hanoi-University-of-Mining-and-Geology-1.f2b0187d2b8ac3aea3ab.png",
+    "static/media/jpg": "/static/media/f3bd45f6d915b011bc29f6661a73bac9.0be77bd58c508e846feb.jpg",
+    "index.html": "/index.html",
+    "main.dd883354.css.map": "/static/css/main.dd883354.css.map",
+    "main.c124c327.js.map": "/static/js/main.c124c327.js.map",
+    "787.8d2a3247.chunk.js.map": "/static/js/787.8d2a3247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd883354.css",
+    "static/js/main.c124c327.js"
+  ]
+}
