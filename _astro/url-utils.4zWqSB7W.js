@@ -1,0 +1,1 @@
+import"./zh_TW.DZ_ffLrl.js";function i(e,r){return e.replace(/^\/|\/$/g,"").toLowerCase()===r.replace(/^\/|\/$/g,"").toLowerCase()}function t(...e){return e.join("/").replace(/\/+/g,"/")}function u(e){return t("","/nguyhonglong.github.io/",e)}export{i as p,u};
